@@ -1,16 +1,12 @@
 # ShadowsocksR_onekey_shell
 
 适用于glzjin面板ssr后端的一键安装脚本 实现输入配置信息、以及全自动安装，支持 modwebapi 及 glzjinmod（mysql connect）
-
 支持 ubuntu14.04+ / centos6+ /debian7+ 
-
 默认安装目录：/root/shadowsocks
 # 安装方法 （2017-07-29更新）
 ```
 git clone https://github.com/wulabing/SSR-manyuser_glzjin_shell.git SSR
-
 cd SSR
-
 bash shadowsocks.sh
 
 设置完后进入安装目录 默认/root/shadowsocks 运行即可
@@ -23,8 +19,7 @@ bash shadowsocks.sh
 # 更新
 ## version 2.1.2
 2017-08-09
-
-1. 调整顺序。优先进行信息输入，然后进入安装流程
+调整顺序。优先进行信息输入，然后进入安装流程
 
 ## version 2.1.1
 2017-07-29
