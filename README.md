@@ -5,7 +5,7 @@
 默认安装目录：/root/shadowsocks
 # 安装方法 （2017-07-29更新）
 ```
-git clone https://github.com/wulabing/SSR-manyuser_glzjin_shell.git SSR
+git clone https://github.com/AugNone/SSR-manyuser_glzjin_shell.git SSR
 cd SSR
 bash shadowsocks.sh
 
